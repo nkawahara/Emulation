@@ -19,6 +19,35 @@ virsh will net-define with a loooong name, but choke on net-start.
       <host mac='52:54:48:50:45:02' name='fabric2' ip='192.168.42.2'/>
       <host mac='52:54:48:50:45:03' name='fabric3' ip='192.168.42.3'/>
       <host mac='52:54:48:50:45:04' name='fabric4' ip='192.168.42.4'/>
+      <host mac='52:54:48:50:45:05' name='fabric5' ip='192.168.42.5'/>
+      <host mac='52:54:48:50:45:06' name='fabric6' ip='192.168.42.6'/>
+      <host mac='52:54:48:50:45:07' name='fabric7' ip='192.168.42.7'/>
+      <host mac='52:54:48:50:45:08' name='fabric8' ip='192.168.42.8'/>
+      <host mac='52:54:48:50:45:09' name='fabric9' ip='192.168.42.9'/>
+      <host mac='52:54:48:50:45:10' name='fabric10' ip='192.168.42.10'/>
+      <host mac='52:54:48:50:45:11' name='fabric11' ip='192.168.42.11'/>
+      <host mac='52:54:48:50:45:12' name='fabric12' ip='192.168.42.12'/>
+      <host mac='52:54:48:50:45:13' name='fabric13' ip='192.168.42.13'/>
+      <host mac='52:54:48:50:45:14' name='fabric14' ip='192.168.42.14'/>
+      <host mac='52:54:48:50:45:15' name='fabric15' ip='192.168.42.15'/>
+      <host mac='52:54:48:50:45:16' name='fabric16' ip='192.168.42.16'/>
+      <host mac='52:54:48:50:45:17' name='fabric17' ip='192.168.42.17'/>
+      <host mac='52:54:48:50:45:18' name='fabric18' ip='192.168.42.18'/>
+      <host mac='52:54:48:50:45:19' name='fabric19' ip='192.168.42.19'/>
+      <host mac='52:54:48:50:45:20' name='fabric20' ip='192.168.42.20'/>
+      <host mac='52:54:48:50:45:21' name='fabric21' ip='192.168.42.21'/>
+      <host mac='52:54:48:50:45:22' name='fabric22' ip='192.168.42.22'/>
+      <host mac='52:54:48:50:45:23' name='fabric23' ip='192.168.42.23'/>
+      <host mac='52:54:48:50:45:24' name='fabric24' ip='192.168.42.24'/>
+      <host mac='52:54:48:50:45:25' name='fabric25' ip='192.168.42.25'/>
+      <host mac='52:54:48:50:45:26' name='fabric26' ip='192.168.42.26'/>
+      <host mac='52:54:48:50:45:27' name='fabric27' ip='192.168.42.27'/>
+      <host mac='52:54:48:50:45:28' name='fabric28' ip='192.168.42.28'/>
+      <host mac='52:54:48:50:45:29' name='fabric29' ip='192.168.42.29'/>
+      <host mac='52:54:48:50:45:30' name='fabric30' ip='192.168.42.30'/>
+      <host mac='52:54:48:50:45:31' name='fabric31' ip='192.168.42.31'/>
+      <host mac='52:54:48:50:45:32' name='fabric32' ip='192.168.42.32'/>
+
     </dhcp>
   </ip>
 </network>
